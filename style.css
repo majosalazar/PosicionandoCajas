@@ -1,0 +1,52 @@
+#boxRed {
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    position: initial;
+    
+}
+
+#boxPurple {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    top: -300px;
+    
+}
+
+#boxYellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    top: -500px;
+}
+
+#boxBlue {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    position: initial;
+    
+}
+
+#boxGreen {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    top: -300px;
+    
+}
+
+#boxBlack {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -600px;
+}
